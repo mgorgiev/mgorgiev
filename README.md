@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./BRATU.png)
 # Mihail Gjorgjiev
 
 **`FCSE Student / ML Intern`**
