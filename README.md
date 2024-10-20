@@ -1,4 +1,15 @@
-## Hi there 👋
+# Mihail Gjorgjiev
+
+**`FCSE Student / ML Intern`**
+
+"Hey, I’m a 22-year-old CS student into machine learning, AI, 
+and building projects like face-swapping with Python or tracking basketball shots with OpenCV. 
+Always down to collaborate
+
+
+
+
+---
 
 <!--
 **mgorgiev/mgorgiev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
